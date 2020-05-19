@@ -17,5 +17,3 @@
 #         - :change_column_type_concurrently
 #         - :rename_column_concurrently
 #         - :update_column_in_batches
-Migration/UpdateLargeTable:
-  Enabled: false

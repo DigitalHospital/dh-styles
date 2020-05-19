@@ -1,9 +1,7 @@
 require:
-  - rubocop-gitlab-security
   - rubocop-performance
   - rubocop-rspec
   - rubocop-rails
-  - ./lib/gitlab/styles/rubocop
 
 inherit_from:
   - rubocop-all.yml
